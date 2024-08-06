@@ -27,8 +27,10 @@ Average Transaction Value: The average amount spent per transaction is 1.43K (cu
 * Sales by State:
 
 The highest-performing state is Illinois, followed by Massachusetts and Missouri.
-The lowest-performing states are Vermont, West Virginia, and Washington.
-Sales by Gender:
+The lowest-performing states are West Virginia, Vermount, Michigan.
+
+![gender](https://github.com/user-attachments/assets/1f5415ab-1526-41c5-87e4-d9531847acb1)
+* Sales by Gender:
 
 The image suggests sales are primarily driven by Male customers, with a smaller contribution from Females.
 
